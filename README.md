@@ -56,10 +56,3 @@ Make sure you have:
 - pip (Python package installer)  
 - Virtual environment tools (optional, but recommended)  
 
-### Installation
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/harsh08-rgb/RulePro-App-Creation-.git
-   cd RulePro-App-Creation­
-
