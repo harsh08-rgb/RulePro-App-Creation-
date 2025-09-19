@@ -46,13 +46,3 @@ RulePro is an app that lets users create, manage, and apply rules or profiles (b
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-Make sure you have:
-
-- Python (version >= 3.x)  
-- pip (Python package installer)  
-- Virtual environment tools (optional, but recommended)  
-
