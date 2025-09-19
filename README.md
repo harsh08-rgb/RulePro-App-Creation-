@@ -34,13 +34,7 @@ A simple framework for creating, configuring, and launching modular applications
 
 ---
 
-## 🚧 Requirements
 
-- Node.js (v14 or above recommended)  
-- npm or yarn  
-- (Optional) MongoDB, PostgreSQL, Redis — depending on modules used
-
----
 
 ## ⚙️ Installation & Setup
 
@@ -50,7 +44,7 @@ cd appcreation
 npm install   # or yarn install
 ```
 
-Configure your environment:
+Configure environment:
 
 - Edit `config/default.json`  
 - Or use environment variables (e.g., `APP_PORT`, `DATABASE_URL`)  
