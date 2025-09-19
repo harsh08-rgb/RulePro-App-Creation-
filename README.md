@@ -125,7 +125,3 @@ Licensed under the **MIT License**. See [LICENSE](LICENSE).
 
 ---
 
-## 📞 Contact
-
-Created and maintained by **Harsh08-RGB**  
-Reach out via GitHub or email: *your.email@example.com*
